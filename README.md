@@ -51,18 +51,18 @@ Developed by: RegisterNumber:212223110062
 
 
 
-**Output:**
+### Output:
 ![image](https://github.com/Vigneshv-23/BOOLEAN_FUNCTION_MINIMIZATION/assets/110780412/3ca20bdb-f677-4c46-be64-ede6b3b993c0)
 
 
-**RTL:**
+### RTL:
 ![image](https://github.com/Vigneshv-23/BOOLEAN_FUNCTION_MINIMIZATION/assets/110780412/cb50880a-2b81-4121-96be-1cddc497876d)
 
 
-**Timing Diagram:**
+##Timing Diagram:
 ![image](https://github.com/Vigneshv-23/BOOLEAN_FUNCTION_MINIMIZATION/assets/110780412/105d011f-b5c8-4f21-8592-1c397527d645)
 
-**Result:**
+###Result:
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
