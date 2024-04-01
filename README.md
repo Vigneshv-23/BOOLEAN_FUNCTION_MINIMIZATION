@@ -47,20 +47,25 @@ assign F1=x1|x2|x3|x4|x5;
 endmodule
 ```
 
-Developed by: RegisterNumber:212223110062
+Developed by: VIGNESH V
+RegisterNumber:212223110062
 
 
 
 ### Output:
-![image](https://github.com/Vigneshv-23/BOOLEAN_FUNCTION_MINIMIZATION/assets/110780412/3ca20bdb-f677-4c46-be64-ede6b3b993c0)
+![image](https://github.com/Vigneshv-23/BOOLEAN_FUNCTION_MINIMIZATION/assets/110780412/727a3d62-02dc-4b05-893a-a57f9b8e8e54)
 
 
 ### RTL:
-![image](https://github.com/Vigneshv-23/BOOLEAN_FUNCTION_MINIMIZATION/assets/110780412/cb50880a-2b81-4121-96be-1cddc497876d)
+![image](https://github.com/Vigneshv-23/BOOLEAN_FUNCTION_MINIMIZATION/assets/110780412/7652cc25-85a0-41ef-9357-26ecda62c1f7)
+
 
 
 ### Timing Diagram:
-![image](https://github.com/Vigneshv-23/BOOLEAN_FUNCTION_MINIMIZATION/assets/110780412/105d011f-b5c8-4f21-8592-1c397527d645)
+![image](https://github.com/Vigneshv-23/BOOLEAN_FUNCTION_MINIMIZATION/assets/110780412/46f3c68a-5d59-42e7-81be-0bd27a92e69e)
+![image](https://github.com/Vigneshv-23/BOOLEAN_FUNCTION_MINIMIZATION/assets/110780412/9b7bcd09-a45e-4f51-9544-7e381e742311)
+
+
 
 ### Result:
 
